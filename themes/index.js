@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  leetcode: {
+    title_color: "f0f0f0",
+    text_color: "f0f0f0",
+    icon_color: "ffffff",
+    bg_color: "101010",
+  },
 };
 
 export default themes;
